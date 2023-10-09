@@ -1,2 +1,4 @@
 # This is a markdown preview
-## This is a markdpwn preview
+## This is a markdown preview
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
